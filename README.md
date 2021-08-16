@@ -1,6 +1,2 @@
-# Toon Shader for Unity
-Unity 2018.3 project source for completed [Toon Shader tutorial](https://roystan.net/articles/toon-shader.html) from the site [roystan.net](https://roystan.net/).
-
-![alt text](https://i.imgur.com/0PbpWYg.png)
-
-Has specular, rim lighting, and can cast and receive shadows.
+# Shader Tutorial for Unity
+迫于公众号将被冻结而更新的Unity Shader不标准指北教程
